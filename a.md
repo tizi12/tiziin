@@ -1,6 +1,8 @@
 # tizi君 - 防掉队。
 
 #### 💗永久域名：[tizi12.com](http://tizi12.com)
+#### 可用网址1：[http://198.13.61.189/uc/index](http://198.13.61.189/uc/index)
+#### 可用网址2：[http://45.76.77.114/uc/index](http://45.76.77.114/uc/index)
 #### 请收藏：https://github.com/tizi12/tiziin/blob/a/a.md
 
 ### 说明
