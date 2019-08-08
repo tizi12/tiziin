@@ -1,6 +1,6 @@
 # tizi君 - 防掉队。
 
-#### 💗永久域名：[tizi12.com](http://tizi12.com)
+#### 💗可用域名：[tizivpn.com](http://tizivpn.com)
 ### 可用网址1：[http://198.13.61.189/uc/index](http://198.13.61.189/uc/index)
 ### 可用网址2：[http://66.42.97.187/uc/index](http://66.42.97.187/uc/index)
 
